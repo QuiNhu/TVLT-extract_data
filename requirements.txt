@@ -1,0 +1,11 @@
+fastapi~=0.115.12
+boto3~=1.38.21
+uvicorn~=0.23.2
+transformers~=4.46.2
+torch~=2.7.0
+google-generativeai
+vertexai
+google-genai
+emoji
+pytz
+openai
